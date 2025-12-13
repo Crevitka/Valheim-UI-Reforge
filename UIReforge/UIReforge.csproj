@@ -108,7 +108,6 @@
     <Compile Include="LogoChangeMod.cs" />
     <Compile Include="ModSettingsBtn.cs" />
     <Compile Include="HudPatch.cs" />
-    <Compile Include="SettingsPanelMod.cs" />
     <Compile Include="UIImprovementMod.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
